@@ -50,7 +50,7 @@ Whether you need to automate keyboard presses for AFK tasks, conduct long-term p
 ## 📸 Web Interface Preview
 
 <div align="center">
-  <img src="https://i.imgur.com/k9vj3A7.png" alt="Web UI Screenshot" width="750"/>
+  <img src="Screenshot 2025-09-30 205354.png" width="750"/>
   <p><em>Control everything from one clean interface.</em></p>
 </div>
 
