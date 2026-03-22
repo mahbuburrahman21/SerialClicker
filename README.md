@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/8x2gYq2.png" alt="Project Banner" width="800"/>
+  <img src="Automated clicker with control interface.png" width="800"/>
   <h1>Serial Clicker</h1>
   <p>A Web-Controlled Servo Sequencer for Precision Automation</p>
 
